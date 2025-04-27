@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kubi-dev
 - 👀 I’m interested in Python and Game Mods
-- 🌱 I’m currently learning Python with Flask, Jinja
+- 🌱 I’m currently learning Python with voice recognicion and basic llm
 - 📫 How to reach me : on discord @void.kubi
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a polish dev
