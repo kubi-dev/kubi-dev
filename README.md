@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @kubi-dev
-- 👀 I’m interested in Python and Game Mods
-- 🌱 I’m currently learning Python with voice recognicion and basic llm
-- 📫 How to reach me : on discord @void.kubi
+- 👀 I’m interested in Python and Privacy
+- 🌱 I’m currently learning kali linux and OSINT
+- 📫 How to reach me : on discord @44kuba
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a polish dev
+-
 
 <!---
 kubi-dev/kubi-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
