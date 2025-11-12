@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning kali linux and OSINT
 - 📫 How to reach me : on discord @44kuba
 - 😄 Pronouns: he/him
--
 
 <!---
 kubi-dev/kubi-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
