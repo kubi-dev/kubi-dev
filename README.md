@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Kuba<br><br>- 🔭 I’m working on creating my site in flask<br>- 📚 I'm currently learning C#<br>- ⚡ In my free time I play games like Ghoustrunner 2</p>
+<p align="left">I'm Kuba<br><br>- 🔭 I’m working on creating my site in flask<br>- 📚 I'm currently learning C#<br>- ⚡ In my free time I play games Ghoustrunner 2 and Rayman Legends</p>
 
 ###
 
